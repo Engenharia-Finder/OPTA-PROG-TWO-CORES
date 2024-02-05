@@ -1,6 +1,8 @@
-# OPTA-PROG-TWO-CORES
+# Overview
 This programming aims to use the two OPTA cores programmed independently to perform different functions.
 
+# Goals
+° Learn how to separate and use two different programs on each OPTA core
 
 # THE TUTORIAL STARTS FROM HERE
 
